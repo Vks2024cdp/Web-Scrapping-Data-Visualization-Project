@@ -1,4 +1,4 @@
-![VKS - Retail Promotions Analysis](/data/Hari Raya logo.png")
+![VKS - Retail Promotions Analysis](/Data/titlepage.png)
 
 # Retail Promotions Analysis: Courts vs Harvey Norman
 
