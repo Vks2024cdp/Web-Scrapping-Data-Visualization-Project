@@ -1,4 +1,6 @@
-**Data** - This folder has the two csv files i used for this project. 
+**Project Overview** - Read this file to get overview of the project. 
+
+**Data** - This folder has the two csv files which was the result of web scraping and used for further data analysis in this project. 
 
 **Notebook** - This folder has my working code.
 * My webscrapping exercise - This is python notebook which has the logic to scrap data from the websites
